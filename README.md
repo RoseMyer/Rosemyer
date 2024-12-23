@@ -1,6 +1,6 @@
 # Hi there, I'm Rose Myer! 👋
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/rose-myer-98a339201/) 
+[Connect with me on LinkedIn](https://www.linkedin.com/in/rose-myer-98a339201/) 
 
 email| rosesmyer@icloud.com
 
@@ -16,8 +16,8 @@ A passionate student studying Econonics and Mathmatics. I am interested in how m
   This project focuses on building a sentiment analysis model using an SVM classifier to analyze customer feedback.
   
 - [Realitvity AI Studio](https://github.com/kavya-adusu/relativity1A)
-  This project was a semester-long study focused on potential bias in frontier models, specifically examining whether women with children were discriminated against compared to other applicants.
-  Using Amazon’s generalized fairness metric, available here, and the findings from this study, we developed a template centered on the prescreening of job applications.
+  This project was a semester-long study focused on potential bias in frontier models, specifically examining whether women with children were discriminated against compared to other 
+  applicants. Using Amazon’s generalized fairness metric, available [here](https://github.com/amazon-science/generalized-fairness-metrics/tree/main/src/models), and the findings from [this](https://link.springer.com/article/10.1007/s10869-022-09790-7) study, we developed a template centered on the prescreening of job applications.
   My contributions included conducting research, coordinating the project, creating the templates, writing code to integrate the templates with the Gemini API, and analyzing the results.
   Our findings revealed a small statistical bias against women with children during the hiring process. This subgroup consistently scored between 2–3, while the professional group scored between 3–4.
   
