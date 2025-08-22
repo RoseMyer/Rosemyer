@@ -4,9 +4,9 @@
 
 email| rosesmyer@icloud.com
 
-A passionate student studying Econonics and Mathmatics. I am interested in how machine learning and data science can improve economic models and research.
+A passionate student studying Econonics (and maybe mathmatics if time gives way). I am interested in how machine learning and data science can improve economic models and research.
 
- **Education**: Bachelor of Arts in Mathmatics & Economics @ Columbia
+ **Education**: Bachelor of Arts in Economics @ Columbia
  **Experience**: Individual projects, NYU AI Camp, Cornell BreakThrough Tech  
  **Skills**: Interemidate in Python & C++ 
 
